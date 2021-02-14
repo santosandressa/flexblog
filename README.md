@@ -1,4 +1,4 @@
 # [Flexblog](https://flexblog-chi.vercel.app/)
-Posicionamento com display flexbox, e suas propriedades
+Posicionamento com display flexbox, e suas propriedades.
 
 
