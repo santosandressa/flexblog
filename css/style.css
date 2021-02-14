@@ -11,6 +11,10 @@ label {
     vertical-align: baseline;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: "Nunito", sans-serif;
     color: #222;
