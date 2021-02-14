@@ -108,6 +108,14 @@ img {
     color: #122ab2;
 }
 
+#nav {
+    background: #2c70ff;
+    position: fixed;
+    top: 50;
+    width: 100%;
+    transition: top 0.3s;
+}
+
 
 /* Introdução  */
 
@@ -116,7 +124,7 @@ img {
     line-height: 1;
     max-width: 960px;
     margin: 0 auto;
-    padding: 50px 10px;
+    padding: 180px 10px 50px;
 }
 
 
